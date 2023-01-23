@@ -1,0 +1,4 @@
+baseURL = 'https://koelslaw.github.io/'
+languageCode = 'en-us'
+title = 'koelzerdev'
+theme="hugo-clarity"
